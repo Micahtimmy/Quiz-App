@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="option_1">Barrack Obama</string>
+    <string name="question_1">Who is the President of USA?</string>
+    <string name="option_2">Muhammadu Buhari</string>
+    <string name="option_3">Donald Trump</string>
+    <string name="option_4">Abraham Clinton</string>
+    <string name="question_2">What is the full meaning of ALC?</string>
+    <string name="option_a">Andela Learning Commute</string>
+    <string name="option_b">Andela Learners community</string>
+    <string name="option_c">Andela Learning Communities</string>
+    <string name="question_3">Which country is hosting the 2018 World Cup?</string>
+    <string name="option_d"></string>
+    <string name="option_e">Nigeria</string>
+    <string name="option_f">Where is the capital of Dubai?</string>
+    <string name="question_g">Caliphs</string>
+    <string name="truee">Correct</string>
+    <string name="irina_blok">False</string>
+    <string name="option_j">Andela Learning Community</string>
+    <string name="ans">seven</string>
+    <string name="option_q">Calabar</string>
+    <string name="option_w">Abuja</string>
+    <string name="option_r">Lagos</string>
+    <string name="trued">Abuja</string>
+    <string name="t">Abuja</string>
+    <string name="question_t">Where is the capital of Nigeria</string>
+</resources>
